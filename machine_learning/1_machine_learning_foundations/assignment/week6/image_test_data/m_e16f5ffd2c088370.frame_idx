@@ -1,0 +1,17 @@
+[sframe]
+version=0
+num_segments=18446744073709551615
+num_columns=5
+nrows=4000
+[column_names]
+0000=id
+0001=image
+0002=label
+0003=deep_features
+0004=image_array
+[column_files]
+0000=m_e16f5ffd2c088370.sidx:0
+0001=m_e16f5ffd2c088370.sidx:1
+0002=m_e16f5ffd2c088370.sidx:2
+0003=m_e16f5ffd2c088370.sidx:3
+0004=m_e16f5ffd2c088370.sidx:4

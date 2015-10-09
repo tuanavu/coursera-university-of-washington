@@ -1,0 +1,56 @@
+{
+    "sarray": {
+        "version": "2",
+        "num_segments": "1"
+    },
+    "segment_files": {
+        "0000": "m_e16f5ffd2c088370.0000"
+    },
+    "columns": [
+        {
+            "content_type": "",
+            "metadata": {
+                "__type__": "0"
+            },
+            "segment_sizes": {
+                "0000": "4000"
+            }
+        },
+        {
+            "content_type": "",
+            "metadata": {
+                "__type__": "8"
+            },
+            "segment_sizes": {
+                "0000": "4000"
+            }
+        },
+        {
+            "content_type": "",
+            "metadata": {
+                "__type__": "2"
+            },
+            "segment_sizes": {
+                "0000": "4000"
+            }
+        },
+        {
+            "content_type": "",
+            "metadata": {
+                "__type__": "3"
+            },
+            "segment_sizes": {
+                "0000": "4000"
+            }
+        },
+        {
+            "content_type": "",
+            "metadata": {
+                "__type__": "3"
+            },
+            "segment_sizes": {
+                "0000": "4000"
+            }
+        }
+    ]
+}

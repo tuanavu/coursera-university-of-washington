@@ -1,7 +1,8 @@
-Machine Learning - Stanford
+Machine Learning - University of Washington
 ---
 
-This repo contains lectures and my solution of assignment in [Coursera Stanford Machine Learning Class](https://www.coursera.org/learn/machine-learning).
+This repo contains lectures and my solution of assignment in [Machine Learning Specialization - Coursera University of Washington](https://www.coursera.org/specializations/machine-learning).
+
 
 ## License
 

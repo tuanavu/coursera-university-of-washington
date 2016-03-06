@@ -13,7 +13,6 @@ Course 1: Machine Learning Foundations
 - [Getting started with Python.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week1/Getting%20started%20with%20iPython%20Notebook.ipynb)
 - [Getting Started with SFrames.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week1/Getting%20Started%20with%20SFrames.ipynb)
 
----
 
 ## Week 2: Regression: Predicting House Prices
 
@@ -28,7 +27,6 @@ Course 1: Machine Learning Foundations
 - [Predicting house prices-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week2/Predicting%20house%20prices-Exercise.ipynb)
 - [quiz-week2-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week2/quiz-week2-assignment.ipynb)
 
----
 
 ## Week 3: Classification: Analyzing Sentiment
 
@@ -43,7 +41,6 @@ Course 1: Machine Learning Foundations
 - [Analyzing product sentiment-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week3/Analyzing%20product%20sentiment-Exercise.ipynb)
 - [quiz-week3-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week3/quiz-week3-assignment.ipynb)
 
----
 ## Week 4: Clustering and Similarity: Retrieving documents
 
 **- Lecture**
@@ -57,7 +54,6 @@ Course 1: Machine Learning Foundations
 - [Document retrieval-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week4/Document%20retrieval-Exercise.ipynb)
 - [quiz-week4-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week4/quiz-week4-lecture.ipynb)
 
----
 
 ## Week 5: Recommending Products
 
@@ -72,7 +68,6 @@ Course 1: Machine Learning Foundations
 - [Song recommender-Exercise.ipynb](https://github.com/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week5/Song%20recommender-Exercise.ipynb)
 - [quiz-week5-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanvu216/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week5/quiz-week5-assignment.ipynb)
 
----
 ## Week 6: Deep Learning: Searching for Images
 
 **- Lecture**

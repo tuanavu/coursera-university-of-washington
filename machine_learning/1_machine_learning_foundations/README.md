@@ -1,4 +1,4 @@
-Course 1: Machine Learning Foundations
+Machine Learning Foundations
 ---
 
 ## Week 1: Welcome

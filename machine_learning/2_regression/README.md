@@ -1,4 +1,4 @@
-Course 2: Regression
+Regression
 ---
 
 ## Week 1: Simple Linear Regression

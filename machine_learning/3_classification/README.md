@@ -1,4 +1,4 @@
-Course 3: Classification
+Classification
 ---
 
 ## Week 1: Linear Classifiers & Logistic Regression

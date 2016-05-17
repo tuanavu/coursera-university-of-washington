@@ -1,6 +1,17 @@
 Machine Learning Foundations
 ---
 
+### Lecture Overview
+
+| Week | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Week 1](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-1-welcome) | Welcome |
+| [Week 2](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-2-regression-predicting-house-prices) | Regression: Predicting House Prices |
+| [Week 3](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-3-classification-analyzing-sentiment) | Classification: Analyzing Sentiment |
+| [Week 4](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-4-clustering-and-similarity-retrieving-documents) | Clustering and Similarity: Retrieving documents |
+| [Week 5](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-5-recommending-products) | Recommending Products |
+| [Week 6](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations#week-6-deep-learning-searching-for-images) | Deep Learning: Searching for Images |
+
 ## Week 1: Welcome
 
 **- Lecture**

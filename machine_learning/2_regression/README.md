@@ -1,6 +1,18 @@
 Regression
 ---
 
+### Lecture Overview
+
+| Week | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Week 1](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-1-simple-linear-regression) | Simple Linear Regression |
+| [Week 2](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-2-multiple-regression) | Multiple Regression |
+| [Week 3](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-3-accessing-performance) | Accessing Performance |
+| [Week 4](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-4-ridge-regression) | Ridge Regression |
+| [Week 5](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-5-feature-selection--lasso) | Feature Selection & Lasso |
+| [Week 6](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression#week-6-nearest-neighbors--kernel-regression) | Nearest Neighbors & Kernel Regression |
+
+
 ## Week 1: Simple Linear Regression
 
 **- Notes: Since the minimum of a function is derivative = 0**

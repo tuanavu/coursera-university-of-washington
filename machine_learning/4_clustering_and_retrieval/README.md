@@ -1,36 +1,30 @@
-Classification
+Clustering & Retrieval
 ---
 
 ## Lecture Overview
 
 | Week | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Week 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-1-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
-| [Week 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-2-linear-classifiers--logistic-regression) | Linear Classifiers & Logistic Regression |
+| [Week 1](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-1-welcome) | Welcome |
+| [Week 2](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-1-nearest-neighbor-search) | Nearest Neighbor Search |
 | [Week 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-3-decision-trees) | Decision Trees |
-| [Week 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-4-preventing-overfitting-in-decision-trees--handling-missing-data) | Preventing Overfitting in Decision Trees & Handling Missing Data |
-| [Week 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-5-boosting) | Boosting |
-| [Week 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-6-precision-recall) | Precision-Recall |
-| [Week 7](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/3_classification#week-7-scaling-to-huge-datasets--online-learning) | Scaling to Huge Datasets & Online Learning |
 
-## Week 1: Linear Classifiers & Logistic Regression
+
+## Week 1: Welcome
 
 **[Lecture](./lecture/week1)**
-- [intro.pdf](./lecture/week1/intro.pdf)
-- [logistic-regression-model-annotated.pdf](./lecture/week1/logistic-regression-model-annotated.pdf)
-- module-2-linear-classifier-assignment-graphlab [[ipynb](./lecture/week1/quiz-Learning%20Linear%20Classifiers.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/lecture/week2/quiz-Learning%20Linear%20Classifiers.ipynb)]
+- [intro](./lecture/week1/01_slides-presented-in-this-module_intro.pdf)
+- [Software tools](./lecture/week1/Software%20tools.pdf)
 
-**[Assigment](./assignment/week1)**
-- module-2-linear-classifier-assignment-graphlab [[ipynb](./assignment/week1/module-2-linear-classifier-assignment-graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week1/module-2-linear-classifier-assignment-graphlab.ipynb)]
-- quiz-week1-assignment.ipynb [[ipynb](./assignment/week1/quiz-week1-assignment.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week1/quiz-week1-assignment.ipynb)]
+## Week 2: Nearest Neighbor Search
 
-## Week 2: Linear Classifiers & Logistic Regression
-
-### Learning Linear Classifiers
+### The importance of data representations and distance metrics
 
 **[Lecture](./lecture/week2)**
-- [logistic-regression-learning-annotated.pdf](./lecture/week2/logistic-regression-learning-annotated.pdf)
+- [retrieval-intro-annotated](./lecture/week2/01_slides-presented-in-this-module_retrieval-intro-annotated.pdf)
 - quiz-Learning Linear Classifiers.ipynb [[ipynb](./lecture/week2/quiz-Learning%20Linear%20Classifiers.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/lecture/week2/quiz-Learning%20Linear%20Classifiers.ipynb)]
+
+
 
 **[Assigment](./assignment/week2)**
 - module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb [[ipynb](./assignment/week2/module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week2/module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb)]

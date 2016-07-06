@@ -19,7 +19,7 @@ Clustering & Retrieval
 ## Week 2: Nearest Neighbor Search
 
 - [Lecture](./lecture/week2)
-- [Assignment](./assignment/week2)
+- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week2)
 
 ### Introduction to nearest neighbor search and algorithms
 
@@ -52,7 +52,7 @@ Clustering & Retrieval
 ## Week 3: Clustering with k-means
 
 - [Lecture](./lecture/week3)
-- [Assignment](./assignment/week3)
+- [Assignment](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval/assigment/week3)
 
 ### Introduction to clustering
 

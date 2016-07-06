@@ -26,7 +26,7 @@ Classification
 
 ## Week 2: Linear Classifiers & Logistic Regression
 
-### Learning Linear Classifiers
+#### Learning Linear Classifiers
 
 **[Lecture](./lecture/week2)**
 - [logistic-regression-learning-annotated.pdf](./lecture/week2/logistic-regression-learning-annotated.pdf)
@@ -36,7 +36,7 @@ Classification
 - module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb [[ipynb](./assignment/week2/module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week2/module-3-linear-classifier-learning-assignment-blank-graphlab.ipynb)]
 - quiz-week2-assignment1.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week2/quiz-week2-assignment1.ipynb)]
 
-### Overfitting & Regularization in Logistic Regression
+#### Overfitting & Regularization in Logistic Regression
 
 **[Lecture](./lecture/week2)**
 - [logistic-regression-overfitting-annotated.pdf](./lecture/week2/logistic-regression-overfitting-annotated.pdf)
@@ -60,7 +60,7 @@ Classification
 
 ## Week 4: Preventing Overfitting in Decision Trees & Handling Missing Data
 
-### Preventing Overfitting in Decision Trees
+#### Preventing Overfitting in Decision Trees
 
 **[Lecture](./lecture/week4)**
 - [decision-trees-overfitting-annotated.pdf](./lecture/week4/decision-trees-overfitting-annotated.pdf)
@@ -70,7 +70,7 @@ Classification
 - module-6-decision-tree-practical-assignment-Graphlab.ipynb [[ipynb](./assignment/week4/module-6-decision-tree-practical-assignment-Graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week4/module-6-decision-tree-practical-assignment-Graphlab.ipynb)]
 - quiz-week4-assignment1.ipynb [[ipynb](./assignment/week4/quiz-week4-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/3_classification/assigment/week4/quiz-week4-assignment1.ipynb)]
 
-### Handling Missing Data
+#### Handling Missing Data
 
 **[Lecture](./lecture/week4)**
 - [logistic-regression-overfitting-annotated.pdf](./lecture/week2/logistic-regression-overfitting-annotated.pdf)

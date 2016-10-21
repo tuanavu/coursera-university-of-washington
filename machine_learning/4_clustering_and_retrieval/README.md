@@ -41,10 +41,10 @@ Clustering & Retrieval
 
 #### Locality sensitive hashing for approximate NN search
 
-**Lecture**
+- **Lecture**
 - quiz-Locality Sensitive Hashing.ipynb [[ipynb](./lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
 
-**Assignment**
+- **Assignment**
 - 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assignment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
 - quiz-week2-assignment2.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
 
@@ -57,4 +57,15 @@ Clustering & Retrieval
 #### Introduction to clustering
 
 - [kmeans-annotated](./lecture/week3/01_slides-presented-in-this-module_kmeans-annotated.pdf)
+
+#### Clustering via k-means
+
+**Lecture**
+- quiz-K-means.ipynb [[ipynb](./lecture/week3/quiz-k-means.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
+
+**Assignment**
+- 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assigment/week3/2_kmeans-with-text-data_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
+- quiz-week2-assignment2.ipynb [[ipynb](./assigment/week3/quiz-week3-assignment1.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
+
+
 

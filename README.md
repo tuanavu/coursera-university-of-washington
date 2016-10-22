@@ -5,7 +5,7 @@ This repo contains lectures and assignments of [University of Washington - Cours
 
 <br/>
 <p align="center">
-  <img src="http://raddarchitecture.com/wp-content/uploads/2016/03/university-of-washington-logo-download-logo-uw.png">
+  <img src="http://uwcne.net/images/uw-icon-20x20.gif">
 </p>
 
 ## Course Overview

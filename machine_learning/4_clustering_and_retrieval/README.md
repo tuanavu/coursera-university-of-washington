@@ -36,17 +36,17 @@ Clustering & Retrieval
 
 #### Scaling up k-NN search using KD-trees
 
-**Lecture**
-- quiz-KD-trees.ipynb [[ipynb](./lecture/week2/quiz-KD-trees.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-KD-trees.ipynb)]
+- __Lecture__
+	- quiz-KD-trees.ipynb [[ipynb](./lecture/week2/quiz-KD-trees.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-KD-trees.ipynb)]
 
 #### Locality sensitive hashing for approximate NN search
 
-- **Lecture**
-- quiz-Locality Sensitive Hashing.ipynb [[ipynb](./lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
+- __Lecture__
+	- quiz-Locality Sensitive Hashing.ipynb [[ipynb](./lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/lecture/week2/quiz-Locality%20Sensitive%20Hashing.ipynb)]
 
-- **Assignment**
-- 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assignment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
-- quiz-week2-assignment2.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
+- __Assignment__
+	- 1_nearest-neighbors-lsh-implementation_graphlab.ipynb [[ipynb](./assignment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/1_nearest-neighbors-lsh-implementation_graphlab.ipynb)]
+	- quiz-week2-assignment2.ipynb [[ipynb](./assignment/week2/quiz-week2-assignment2.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/4_clustering_and_retrieval/assigment/week2/quiz-week2-assignment2.ipynb)]
 
 
 ## Week 3: Clustering with k-means

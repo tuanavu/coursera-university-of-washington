@@ -10,7 +10,7 @@ Clustering & Retrieval
 | [Week 3](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-3-clustering-with-k-means) | Clustering with k-means |
 | [Week 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-4-mixture-models) | Mixture Models |
 | [Week 5](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-5-mixed-membership-modeling-via-latent-dirichlet-allocation) | Mixed Membership Modeling via Latent Dirichlet Allocation |
-| [Week 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-3-clustering-with-k-means) | Hierarchical Clustering & Closing Remarks |
+| [Week 6](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval#week-6-hierarchical-clustering--closing-remarks) | Hierarchical Clustering & Closing Remarks |
 
 
 ## Week 1: Welcome

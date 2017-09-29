@@ -63,7 +63,7 @@ Machine Learning Foundations
 
 - [Assignment 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations/assignment/week4)
 - [Document retrieval-Exercise.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week4/Document%20retrieval-Exercise.ipynb)
-- [quiz-week4-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/lecture/week4/quiz-week4-lecture.ipynb)
+- [quiz-week4-assignment.ipynb](http://nbviewer.jupyter.org/github/tuanavu/coursera-university-of-washington/blob/master/machine_learning/1_machine_learning_foundations/assignment/week4/quiz-week4-assignment.ipynb)
 
 
 ## Week 5: Recommending Products
